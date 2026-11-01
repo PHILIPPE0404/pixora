@@ -1,1 +1,0 @@
-Ajoute ici tes images originales (PNG, JPG, WEBP ou AVIF). Ce dossier n'est PAS servi publiquement. Ne place pas tes fichiers originaux dans public/.
